@@ -1,0 +1,13 @@
+[  {title:'gatito', 
+    id: 12, 
+    price: 0.25, 
+    thumbnail: 'www.imgur.com/jsqnhpiuh19'},
+    {  title:'perrito', 
+    id: 11, 
+    price: 0.30, 
+    thumbnail: 'www.imgur.com/jsqnhpiuh16'},
+    {  title:'conejito', 
+    id: 10, 
+    price: 0.80, 
+    thumbnail: 'www.imgur.com/jsqnhpiuh16'}
+    ]
