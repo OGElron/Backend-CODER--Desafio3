@@ -68,6 +68,10 @@ async function rutas () {
         return random
     }
     
+    app.get('/', (req, res) => {
+        res.send('<h1 style="color:red;">Desafio Express! acceda a /productos y /productoRandom</h1>')
+    });
+
     app.get('/productos', (req, res) => {
         
         res.send(`${JSON.stringify(elquesetecante, null, 2)}`)
